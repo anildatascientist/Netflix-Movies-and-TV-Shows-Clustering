@@ -1,5 +1,10 @@
 ![harrypotty-min-1-768x471](https://user-images.githubusercontent.com/59911959/195928205-b790fb3c-f702-4dc2-9a7c-12b1da6287e1.jpg)
-# NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
+
+# NETFLIX MOVIES AND TV-SHOWS-CLUSTERING
+
+# 📋 Abstract:
+Netflix is a company that manages a large collection of TV shows and movies, streaming them anytime online. This business is profitable because users make a monthly payment to access the platform. However, customers can cancel their subscriptions at any time. Therefore, the company must keep the users hooked on the platform and not lose their interest. This is where recommendation systems start to play an important role, providing valuable suggestions to users is essential.
+
 ## Objectives:
 * Conduct Exploratory Data Analysis.
 * Try understanding what type content is available in different countries.
